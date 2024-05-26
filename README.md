@@ -12,4 +12,4 @@ Press the left mouse button to run, then the right to return to walking.
 
 --------
 
-** Note that quick horizontal movement causes an issue due to the camera lag + how quick the full-body animation turns. Will try and fix and commit at a later date. **
+Note that quick horizontal movement causes an issue due to the camera lag + how quick the full-body animation turns. Will try and fix and commit at a later date.
